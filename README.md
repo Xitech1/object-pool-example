@@ -6,3 +6,5 @@ Drag and drop the Turret prefab into the scene, play the game and press space to
 
 Note, there's room for improvement. E.g. rather than returning null, you can generate a new object instead and add it to the pool. Good luck :).
 For questions, please feel free to comment on YT: 
+
+![image](https://github.com/Xitech1/object-pool-example/assets/7213013/bc8342b1-b17e-43c0-9049-724896c9367f)
